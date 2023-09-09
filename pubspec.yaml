@@ -17,7 +17,9 @@ dependencies:
   artista_config:
     git:
       url: https://github.com/The-Artista/artista_config.git
-
+  flutter_img:
+  scroll_to_animate_tab:
+  loadmore_data:
   flutter:
     sdk: flutter
 

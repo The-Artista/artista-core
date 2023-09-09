@@ -117,6 +117,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ArtistaButton.outline(buttonSize: ButtonSize.md, buttonColor: ButtonColor.primary, child: Text("data"),onPressed: () {
 
             },),
+            Img('https://www.ishaf.info/profileImage.jpg'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
