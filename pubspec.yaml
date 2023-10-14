@@ -20,6 +20,7 @@ dependencies:
   flutter_img:
   scroll_to_animate_tab:
   loadmore_data:
+  get_it: ^7.6.0
   flutter:
     sdk: flutter
 
